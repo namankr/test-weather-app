@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"node-mongo-registration-login-api.users"},{"v":{"$numberInt":"2"},"unique":true,"key":{"username":{"$numberInt":"1"}},"name":"username_1","ns":"node-mongo-registration-login-api.users","background":true}],"uuid":"6e54af1b119c469ca5bdadcdacbf1f3e"}
